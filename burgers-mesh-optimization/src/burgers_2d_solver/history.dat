@@ -1,0 +1,2 @@
+ TITLE = "2D Burgers Equation Residual History"
+ variables="Iteration""Time(s)""Res"

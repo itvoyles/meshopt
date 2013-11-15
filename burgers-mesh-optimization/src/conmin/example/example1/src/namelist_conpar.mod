@@ -1,0 +1,174 @@
+GFORTRAN module created from conmin_ex2.f95 on Mon Jul 25 14:14:21 2011
+If you edit this, you'll get what you deserve.
+
+(() () ()
+() () () () () () () () () () () () () () () () () ())
+
+()
+
+()
+
+(('cnmn1' 2 0) ('varable' 3 0) ('grad' 4 0))
+
+()
+
+(5 'a' 'common_grad' 1 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN
+DIMENSION IN_COMMON) (REAL 8 ()) 0 0 () (2 EXPLICIT (CONSTANT (INTEGER 4
+()) 0 '1') (CONSTANT (INTEGER 4 ()) 0 '6') (CONSTANT (INTEGER 4 ()) 0 '1')
+(CONSTANT (INTEGER 4 ()) 0 '11')) 0 () ())
+6 'alphax' 'common_cnmn1' 1 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC
+UNKNOWN IN_NAMELIST IN_COMMON) (REAL 8 ()) 0 7 () () 0 () ())
+7 'abobj1' 'common_cnmn1' 1 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC
+UNKNOWN IN_NAMELIST IN_COMMON) (REAL 8 ()) 0 8 () () 0 () ())
+9 'c' 'data_input' 1 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN
+DIMENSION) (REAL 8 ()) 0 0 () (1 EXPLICIT (CONSTANT (INTEGER 4 ()) 0 '1')
+(CONSTANT (INTEGER 4 ()) 0 '11')) 0 () ())
+10 'b' 'data_input' 1 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN
+DIMENSION) (REAL 8 ()) 0 0 () (2 EXPLICIT (CONSTANT (INTEGER 4 ()) 0 '1')
+(CONSTANT (INTEGER 4 ()) 0 '11') (CONSTANT (INTEGER 4 ()) 0 '1') (
+CONSTANT (INTEGER 4 ()) 0 '11')) 0 () ())
+11 'common_andata' 'common_andata' 1 ((MODULE UNKNOWN-INTENT
+UNKNOWN-PROC UNKNOWN) (UNKNOWN 0 ()) 0 0 () () 0 () ())
+12 'common_grad' 'common_grad' 1 ((MODULE UNKNOWN-INTENT UNKNOWN-PROC
+UNKNOWN) (UNKNOWN 0 ()) 0 0 () () 0 () ())
+13 'conmin_dim' 'conmin_dim' 1 ((MODULE UNKNOWN-INTENT UNKNOWN-PROC
+UNKNOWN) (UNKNOWN 0 ()) 0 0 () () 0 () ())
+14 'ctl' 'common_cnmn1' 1 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN
+IN_NAMELIST IN_COMMON) (REAL 8 ()) 0 15 () () 0 () ())
+16 'ct' 'common_cnmn1' 1 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN
+IN_NAMELIST IN_COMMON) (REAL 8 ()) 0 17 () () 0 () ())
+15 'ctlmin' 'common_cnmn1' 1 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC
+UNKNOWN IN_NAMELIST IN_COMMON) (REAL 8 ()) 0 6 () () 0 () ())
+17 'ctmin' 'common_cnmn1' 1 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC
+UNKNOWN IN_NAMELIST IN_COMMON) (REAL 8 ()) 0 14 () () 0 () ())
+18 'conpar' 'namelist_conpar' 1 ((NAMELIST UNKNOWN-INTENT UNKNOWN-PROC
+UNKNOWN) (UNKNOWN 0 ()) 0 0 () () 0 () (19 20 21 22 23 24 25 26 27 28 29
+30 16 17 15 8 31 2 32 33 34 35 36 37 6 7 14 4 38))
+39 'common_variable' 'common_variable' 1 ((MODULE UNKNOWN-INTENT
+UNKNOWN-PROC UNKNOWN) (UNKNOWN 0 ()) 0 0 () () 0 () ())
+40 'data_input' 'data_input' 1 ((MODULE UNKNOWN-INTENT UNKNOWN-PROC
+UNKNOWN) (UNKNOWN 0 ()) 0 0 () () 0 () ())
+32 'dabfun' 'common_cnmn1' 1 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC
+UNKNOWN IN_NAMELIST IN_COMMON) (REAL 8 ()) 0 29 () () 0 () ())
+41 'df' 'common_grad' 1 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN
+DIMENSION IN_COMMON) (REAL 8 ()) 0 5 () (1 EXPLICIT (CONSTANT (INTEGER 4
+()) 0 '1') (CONSTANT (INTEGER 4 ()) 0 '6')) 0 () ())
+29 'fdch' 'common_cnmn1' 1 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC
+UNKNOWN IN_NAMELIST IN_COMMON) (REAL 8 ()) 0 30 () () 0 () ())
+42 'g1' 'data_input' 1 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN
+DIMENSION) (REAL 8 ()) 0 0 () (1 EXPLICIT (CONSTANT (INTEGER 4 ()) 0 '1')
+(CONSTANT (INTEGER 4 ()) 0 '11')) 0 () ())
+43 'g' 'common_variable' 1 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC
+UNKNOWN DIMENSION IN_COMMON) (REAL 8 ()) 0 0 () (1 EXPLICIT (CONSTANT (
+INTEGER 4 ()) 0 '1') (CONSTANT (INTEGER 4 ()) 0 '11')) 0 () ())
+44 'g2' 'data_input' 1 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN
+DIMENSION) (REAL 8 ()) 0 0 () (1 EXPLICIT (CONSTANT (INTEGER 4 ()) 0 '1')
+(CONSTANT (INTEGER 4 ()) 0 '11')) 0 () ())
+30 'fdchm' 'common_cnmn1' 1 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC
+UNKNOWN IN_NAMELIST IN_COMMON) (REAL 8 ()) 0 16 () () 0 () ())
+2 'delfun' 'common_cnmn1' 1 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC
+UNKNOWN IN_NAMELIST IN_COMMON) (REAL 8 ()) 0 32 () () 0 () ())
+45 'common_cnmn1' 'common_cnmn1' 1 ((MODULE UNKNOWN-INTENT UNKNOWN-PROC
+UNKNOWN) (UNKNOWN 0 ()) 0 0 () () 0 () ())
+3 'aobj' 'common_variable' 1 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC
+UNKNOWN IN_COMMON) (REAL 8 ()) 0 35 () () 0 () ())
+46 'igoto' 'common_cnmn1' 1 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC
+UNKNOWN IN_COMMON) (INTEGER 4 ()) 0 47 () () 0 () ())
+20 'info' 'common_cnmn1' 1 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC
+UNKNOWN IN_NAMELIST IN_COMMON) (INTEGER 4 ()) 0 19 () () 0 () ())
+4 'isc' 'common_grad' 1 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN
+DIMENSION IN_NAMELIST IN_COMMON) (INTEGER 4 ()) 0 48 () (1 EXPLICIT (
+CONSTANT (INTEGER 4 ()) 0 '1') (CONSTANT (INTEGER 4 ()) 0 '11')) 0 () ())
+49 'iter' 'common_cnmn1' 1 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC
+UNKNOWN IN_COMMON) (INTEGER 4 ()) 0 0 () () 0 () ())
+22 'iprint' 'common_cnmn1' 1 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC
+UNKNOWN IN_NAMELIST IN_COMMON) (INTEGER 4 ()) 0 21 () () 0 () ())
+19 'infog' 'common_cnmn1' 1 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC
+UNKNOWN IN_NAMELIST IN_COMMON) (INTEGER 4 ()) 0 49 () () 0 () ())
+24 'itmax' 'common_cnmn1' 1 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC
+UNKNOWN IN_NAMELIST IN_COMMON) (INTEGER 4 ()) 0 34 () () 0 () ())
+50 'loopcnt' 'common_andata' 1 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC
+UNKNOWN) (INTEGER 4 ()) 0 0 () () 0 () ())
+33 'linobj' 'common_cnmn1' 1 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC
+UNKNOWN IN_NAMELIST IN_COMMON) (INTEGER 4 ()) 0 24 () () 0 () ())
+34 'itrm' 'common_cnmn1' 1 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC
+UNKNOWN IN_NAMELIST IN_COMMON) (INTEGER 4 ()) 0 27 () () 0 () ())
+51 'ms1' 'data_input' 1 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN
+DIMENSION) (INTEGER 4 ()) 0 0 () (1 EXPLICIT (CONSTANT (INTEGER 4 ()) 0
+'1') (CONSTANT (INTEGER 4 ()) 0 '22')) 0 () ())
+27 'icndir' 'common_cnmn1' 1 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC
+UNKNOWN IN_NAMELIST IN_COMMON) (INTEGER 4 ()) 0 46 () () 0 () ())
+52 'n2' 'conmin_dim' 1 ((PARAMETER UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN)
+(INTEGER 4 ()) 0 0 () (CONSTANT (INTEGER 4 ()) 0 '11') () 0 () ())
+53 'n1' 'conmin_dim' 1 ((PARAMETER UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN)
+(INTEGER 4 ()) 0 0 () (CONSTANT (INTEGER 4 ()) 0 '6') () 0 () ())
+54 'n4' 'conmin_dim' 1 ((PARAMETER UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN)
+(INTEGER 4 ()) 0 0 () (CONSTANT (INTEGER 4 ()) 0 '11') () 0 () ())
+55 'n7' 'conmin_dim' 1 ((PARAMETER UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN)
+(INTEGER 4 ()) 0 0 () (CONSTANT (INTEGER 4 ()) 0 '1') () 0 () ())
+56 'n9' 'conmin_dim' 1 ((PARAMETER UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN)
+(INTEGER 4 ()) 0 0 () (CONSTANT (INTEGER 4 ()) 0 '1') () 0 () ())
+57 'namelist_conpar' 'namelist_conpar' 1 ((MODULE UNKNOWN-INTENT
+UNKNOWN-PROC UNKNOWN) (UNKNOWN 0 ()) 0 0 () () 0 () ())
+47 'nac' 'common_cnmn1' 1 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN
+IN_COMMON) (INTEGER 4 ()) 0 20 () () 0 () ())
+58 'n8' 'conmin_dim' 1 ((PARAMETER UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN)
+(INTEGER 4 ()) 0 0 () (CONSTANT (INTEGER 4 ()) 0 '1') () 0 () ())
+23 'ndv' 'common_cnmn1' 1 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN
+IN_NAMELIST IN_COMMON) (INTEGER 4 ()) 0 25 () () 0 () ())
+21 'nfdg' 'common_cnmn1' 1 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC
+UNKNOWN IN_NAMELIST IN_COMMON) (INTEGER 4 ()) 0 28 () () 0 () ())
+26 'nside' 'common_cnmn1' 1 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC
+UNKNOWN IN_NAMELIST IN_COMMON) (INTEGER 4 ()) 0 22 () () 0 () ())
+31 'phi' 'common_cnmn1' 1 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN
+IN_NAMELIST) (REAL 8 ()) 0 0 () () 0 () ())
+59 'obj' 'common_cnmn1' 1 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN
+IN_COMMON) (REAL 8 ()) 0 23 () () 0 () ())
+28 'nscal' 'common_cnmn1' 1 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC
+UNKNOWN IN_NAMELIST IN_COMMON) (INTEGER 4 ()) 0 33 () () 0 () ())
+60 'prec' 'select_precision' 1 ((PARAMETER UNKNOWN-INTENT UNKNOWN-PROC
+UNKNOWN) (INTEGER 4 ()) 0 0 () (CONSTANT (INTEGER 4 ()) 0 '8') () 0 () ())
+61 'nlim' 'common_cnmn1' 1 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC
+UNKNOWN) (INTEGER 4 ()) 0 0 () () 0 () ())
+8 'theta' 'common_cnmn1' 1 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC
+UNKNOWN IN_NAMELIST IN_COMMON) (REAL 8 ()) 0 59 () () 0 () ())
+37 'vub' 'data_input' 1 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN
+DIMENSION IN_NAMELIST) (REAL 8 ()) 0 0 () (1 EXPLICIT (CONSTANT (
+INTEGER 4 ()) 0 '1') (CONSTANT (INTEGER 4 ()) 0 '6')) 0 () ())
+35 'x' 'common_variable' 1 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC
+UNKNOWN DIMENSION IN_NAMELIST IN_COMMON) (REAL 8 ()) 0 43 () (1 EXPLICIT
+(CONSTANT (INTEGER 4 ()) 0 '1') (CONSTANT (INTEGER 4 ()) 0 '6')) 0 () ())
+36 'vlb' 'data_input' 1 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN
+DIMENSION IN_NAMELIST) (REAL 8 ()) 0 0 () (1 EXPLICIT (CONSTANT (
+INTEGER 4 ()) 0 '1') (CONSTANT (INTEGER 4 ()) 0 '6')) 0 () ())
+38 'scal' 'data_input' 1 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN
+DIMENSION IN_NAMELIST) (REAL 8 ()) 0 0 () (1 EXPLICIT (CONSTANT (
+INTEGER 4 ()) 0 '1') (CONSTANT (INTEGER 4 ()) 0 '6')) 0 () ())
+62 's' 'data_input' 1 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN
+DIMENSION) (REAL 8 ()) 0 0 () (1 EXPLICIT (CONSTANT (INTEGER 4 ()) 0 '1')
+(CONSTANT (INTEGER 4 ()) 0 '6')) 0 () ())
+25 'ncon' 'common_cnmn1' 1 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC
+UNKNOWN IN_NAMELIST IN_COMMON) (INTEGER 4 ()) 0 26 () () 0 () ())
+63 'n6' 'conmin_dim' 1 ((PARAMETER UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN)
+(INTEGER 4 ()) 0 0 () (CONSTANT (INTEGER 4 ()) 0 '1') () 0 () ())
+64 'n5' 'conmin_dim' 1 ((PARAMETER UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN)
+(INTEGER 4 ()) 0 0 () (CONSTANT (INTEGER 4 ()) 0 '22') () 0 () ())
+65 'n3' 'conmin_dim' 1 ((PARAMETER UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN)
+(INTEGER 4 ()) 0 0 () (CONSTANT (INTEGER 4 ()) 0 '11') () 0 () ())
+48 'ic' 'common_grad' 1 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN
+DIMENSION IN_COMMON) (INTEGER 4 ()) 0 41 () (1 EXPLICIT (CONSTANT (
+INTEGER 4 ()) 0 '1') (CONSTANT (INTEGER 4 ()) 0 '11')) 0 () ())
+)
+
+('ic' 0 48 'aobj' 0 3 'abobj1' 0 7 'a' 0 5 'alphax' 0 6 'common_cnmn1' 0
+45 'common_andata' 0 11 'b' 0 10 'c' 0 9 'delfun' 0 2 'dabfun' 0 32
+'common_variable' 0 39 'common_grad' 0 12 'conpar' 0 18 'conmin_dim' 0
+13 'ctmin' 0 17 'ctlmin' 0 15 'ct' 0 16 'ctl' 0 14 'data_input' 0 40
+'fdchm' 0 30 'fdch' 0 29 'df' 0 41 'g2' 0 44 'g' 0 43 'g1' 0 42 'n3' 0
+65 'n1' 0 53 'icndir' 0 27 'ms1' 0 51 'itrm' 0 34 'itmax' 0 24 'infog' 0
+19 'info' 0 20 'igoto' 0 46 'iprint' 0 22 'iter' 0 49 'isc' 0 4 'linobj'
+0 33 'loopcnt' 0 50 'n2' 0 52 'n5' 0 64 'n4' 0 54 'n6' 0 63 'ncon' 0 25
+'n8' 0 58 'n7' 0 55 'nac' 0 47 'n9' 0 56 'namelist_conpar' 0 57 's' 0 62
+'nlim' 0 61 'nfdg' 0 21 'ndv' 0 23 'prec' 0 60 'nscal' 0 28 'obj' 0 59
+'nside' 0 26 'phi' 0 31 'scal' 0 38 'vlb' 0 36 'theta' 0 8 'x' 0 35 'vub'
+0 37)

@@ -1,0 +1,5 @@
+To build the shared object execute the build script
+./buildCONMINlib.sh
+this scripts invokes the compileCONMIN.sh
+This should build the dynamic library and copy it into the proper directory within the workspace.
+The scripts assume that the environment variable IGRID_HOME is set properly.

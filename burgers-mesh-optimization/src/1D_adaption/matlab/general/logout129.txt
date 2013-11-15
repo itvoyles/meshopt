@@ -1,0 +1,25 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013a (8.1.0.604) 64-bit (glnxa64)
+                             February 15, 2013
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+>> >> >> >> >> >> >> >> >> >> Using predefined imax
+   129
+
+Using predefined sol var
+super
+Using predefined flux_type var
+vanleer
+Using predefined lim_type var
+vanleer
+Using predefined functional var
+cont
+Created evenly spaced grid.
+-99.90000 
+Adapting Mesh...
+>> >> 
